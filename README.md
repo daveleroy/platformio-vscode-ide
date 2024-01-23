@@ -1,0 +1,1 @@
+# platformio-vscode-ide
